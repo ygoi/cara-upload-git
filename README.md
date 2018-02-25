@@ -3,14 +3,10 @@
    - terminal - goto the location of the folder/project
    - git init
    - git status
-   - git add
-   - git commit -m “…..”
-   - git remote add origin “location of remote repo”
+   - git add -A
+   - git commit -m “…..” -> judul apa aja yang diubah
+   - git push
 
-   kalo eror "fatal: remote origin already exists."
-   - git remote rm origin
+# cara sync github ke local
 
-
-   - git push -u origin master
-   - git log
-   - git --help
+   - git clone - url git yang mau di clone -> di save di folder
