@@ -10,3 +10,5 @@
 # cara sync github ke local
 
    - git clone - url git yang mau di clone -> di save di folder
+
+# berhasilkah??
